@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0">
   <diagram name="Pagina-1" id="fJi4ycSMJlPodj3w0HGq">
-    <mxGraphModel dx="710" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="589" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
         <mxCell id="Y2UUmjbtdfs_z9O4oWHy-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;labelBackgroundColor=none;verticalAlign=middle;fontStyle=1" value="CAPITOLO dei QUARANTA e Giunta" vertex="1">
           <mxGeometry height="56.5" width="150" x="700" y="260.25" as="geometry" />
         </mxCell>
-        <mxCell id="Y2UUmjbtdfs_z9O4oWHy-12" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=block;endFill=1;fillColor=#ffe6cc;" target="Y2UUmjbtdfs_z9O4oWHy-11">
+        <mxCell id="Y2UUmjbtdfs_z9O4oWHy-12" edge="1" parent="1" source="dnqWYTOoeZH9QZk5Y2u3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=block;endFill=1;fillColor=#ffe6cc;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="Y2UUmjbtdfs_z9O4oWHy-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="462" y="383.25" />
@@ -62,7 +62,7 @@
             <mxPoint x="775" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y2UUmjbtdfs_z9O4oWHy-13" connectable="0" parent="Y2UUmjbtdfs_z9O4oWHy-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="DAL 1563" vertex="1">
+        <mxCell id="Y2UUmjbtdfs_z9O4oWHy-13" connectable="0" parent="Y2UUmjbtdfs_z9O4oWHy-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp; DAL 1563&amp;nbsp;&amp;nbsp;" vertex="1">
           <mxGeometry relative="1" x="-0.0787" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
