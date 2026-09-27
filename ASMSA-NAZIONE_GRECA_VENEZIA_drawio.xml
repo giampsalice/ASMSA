@@ -80,6 +80,9 @@
         <mxCell id="Y2UUmjbtdfs_z9O4oWHy-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;labelBackgroundColor=none;verticalAlign=middle;" value="&lt;b&gt;Scrivano&lt;/b&gt;" vertex="1">
           <mxGeometry height="20" width="67.5" x="320" y="189" as="geometry" />
         </mxCell>
+        <mxCell id="y4uUnUy4UuyCGY62qnFa-1" edge="1" parent="1" source="Y2UUmjbtdfs_z9O4oWHy-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Y2UUmjbtdfs_z9O4oWHy-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Y2UUmjbtdfs_z9O4oWHy-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=11;fontColor=default;labelBackgroundColor=none;resizable=0;" value="&lt;div align=&quot;justify&quot;&gt;&lt;ul&gt;&lt;li&gt;elegge cappellani e altri salarati (tranne vescovi)&lt;/li&gt;&lt;li&gt;delibera e fa leggi, ordini su ogni aspetto relativo al culto, educazione, beneficienza&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="170" x="840" y="288.5" as="geometry" />
         </mxCell>
