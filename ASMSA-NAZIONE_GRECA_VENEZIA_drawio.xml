@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0">
   <diagram name="Pagina-1" id="fJi4ycSMJlPodj3w0HGq">
-    <mxGraphModel dx="858" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1084" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,7 +92,7 @@
         <mxCell id="Y2UUmjbtdfs_z9O4oWHy-33" edge="1" parent="1" source="Y2UUmjbtdfs_z9O4oWHy-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=0;fillColor=#ffe6cc;" target="Y2UUmjbtdfs_z9O4oWHy-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y2UUmjbtdfs_z9O4oWHy-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=13;fontColor=default;labelBackgroundColor=none;resizable=0;" value="&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;span&gt;Cipro&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Corfù&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Creta e Arcipelago delle Cicladi&lt;/li&gt;&lt;li&gt;&lt;span&gt;Grecia superiore&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Napoli di Malvasia&amp;nbsp; e Malvasia&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Zante e Cefalonia&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+        <mxCell id="Y2UUmjbtdfs_z9O4oWHy-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=12;fontColor=default;labelBackgroundColor=none;resizable=0;" value="&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;span&gt;Cipro&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Corfù&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Creta e Arcipelago delle Cicladi&lt;/li&gt;&lt;li&gt;&lt;span&gt;Grecia superiore&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Napoli di Malvasia&amp;nbsp; e Malvasia&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Zante e Cefalonia&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" vertex="1">
           <mxGeometry height="40" width="170" x="940" y="414" as="geometry" />
         </mxCell>
       </root>
